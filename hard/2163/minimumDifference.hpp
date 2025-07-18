@@ -35,9 +35,9 @@ public:
         }
     
         // Initialize dp2 using a min heap
+        // Base case: nums[2n] to nums[3n - 1] have exactly n numbers
         priority_queue<int, vector<int>, greater<int>> min_heap;
         dp2[n] = 0;
-        // Base case: nums[2n] to nums[3n - 1] have exactly n numbers
         for (int i = 2 * n; i < 3 * n; i++) {
             dp2[n] += nums[i];
             min_heap.push(nums[i]);
