@@ -1,1 +1,1 @@
-[Click here](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/?envType=daily-question&envId=2025-07-18)
+[Click here](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/)
