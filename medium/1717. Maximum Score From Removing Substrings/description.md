@@ -1,0 +1,1 @@
+[Click here](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)
