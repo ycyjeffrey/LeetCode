@@ -1,0 +1,1 @@
+[Click here](https://leetcode.com/problems/range-product-queries-of-powers/description/)
