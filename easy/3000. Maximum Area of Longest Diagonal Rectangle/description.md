@@ -1,0 +1,1 @@
+[Click here](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/)
